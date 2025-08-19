@@ -8,6 +8,7 @@ A hands-on learning repository for mastering PyTorch in the context of computer 
 ## 📂 Current Contents
 
 intro_to_tensors/ – PyTorch tensors creation and tensor properties
+tensor_indexing/-   How indexing is done with tensors
 
 ---
 
