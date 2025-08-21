@@ -8,7 +8,17 @@ A hands-on learning repository for mastering PyTorch in the context of computer 
 ## 📂 Current Contents
 
 intro_to_tensors/ – PyTorch tensors creation and tensor properties
+
 tensor_indexing/-   How indexing is done with tensors
+
+Noise_images/
+random_number_noise_image.ipynb → Generating random noise images using PyTorch tensors.
+
+tensor_zeros_ones/
+tensor_of_zeros_ones.ipynb → Creating tensors of zeros and ones, the building blocks of neural nets.
+
+tensor_datatypes/
+datatypes.ipynb → Exploring PyTorch tensor datatypes (float32, int64, etc.) and why they matter.
 
 ---
 
