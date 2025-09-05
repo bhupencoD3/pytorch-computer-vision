@@ -20,6 +20,12 @@ tensor_of_zeros_ones.ipynb → Creating tensors of zeros and ones, the building 
 tensor_datatypes/
 datatypes.ipynb → Exploring PyTorch tensor datatypes (float32, int64, etc.) and why they matter.
 
+tensor_manipulation/
+tensor_manipulation.ipynb → Operations like reshape, squeeze, unsqueeze, transpose, and more.
+
+matrix_aggregation/
+Matrix_Aggregation.ipynb → Exploring sum, mean, min, max, and reduction operations on tensors.
+
 ---
 
 
