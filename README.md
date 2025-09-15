@@ -79,6 +79,15 @@ Each notebook isn’t just code — it’s me exploring a concept, testing it ou
 * Learned how aggregation is used for loss functions and evaluation metrics.
 
 ---
+### 10. Intro to Neural Network Components
+
+* Notebook: understanding_nn/intro_nn_components.ipynb
+
+* Learned how to define neural networks in PyTorch using both the functional API and nn.Sequential.
+
+* Explored key building blocks like layers, activations, and forward passes, understanding how they connect into a full model.
+
+* Practiced creating simple networks in two styles to compare flexibility vs. readability.
 
 ## 🛠️ Tech Stack
 
