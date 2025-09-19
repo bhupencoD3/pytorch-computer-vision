@@ -93,6 +93,20 @@ This repository documents my hands-on journey to mastering PyTorch, starting fro
 * Used PyTorch functional API and `nn.CrossEntropyLoss`.
 * Practiced training, evaluation, and accuracy measurement for multiple classes.
 
+### 13. **Custom DataLoader**
+
+*Notebook:* `concept_custom_data_loader/custom_data_loader.ipynb`
+
+* Built a custom PyTorch Dataset class by subclassing torch.utils.data.Dataset.
+
+* Implemented __init__, __len__, and __getitem__ for loading and preprocessing data.
+
+* Wrapped it in a DataLoader to handle batching, shuffling, and parallel loading.
+
+* Trained a model using batch iteration, optimizer updates, and loss tracking across multiple epochs.
+
+* Outcome: Learned how to design flexible and reusable data pipelines in PyTorch.
+
 ---
 
 ## Tech Stack
