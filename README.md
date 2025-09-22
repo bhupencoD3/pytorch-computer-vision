@@ -116,6 +116,18 @@ This repository documents my hands-on journey to mastering **PyTorch**, starting
 
 **Outcome:** Gained experience in handling image datasets for classification tasks.
 
+### 15. **CNN Training on Custom Dataset**
+
+*Notebook:* `CNN_training/cnn_training_custom_dataset.ipynb`
+
+* Built a custom **CNN architecture** with Conv2D, BatchNorm, ReLU, MaxPooling, and fully connected layers.
+* Trained on a 3-class custom image dataset (30 epochs).
+* Achieved **80.5% test accuracy**.
+* Saved model weights (`cnn_model.pth`).
+* Implemented an **ImageClassifier class** for inference and visualization using OpenCV.
+
+**Outcome:** End-to-end workflow for CNN training, evaluation, saving, and real-world inference.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -126,6 +138,7 @@ This repository documents my hands-on journey to mastering **PyTorch**, starting
 * Matplotlib
 * PIL
 * Torchvision
+* OpenCV
 
 ---
 
@@ -144,5 +157,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Bhupen** – Learning & building one frame at a time
+**Bhupen** – “This work reflects the process of continuous learning — experimenting, making mistakes, and improving with each step.”
+
 🔗 [LinkedIn](https://www.linkedin.com/in/bhupenparmar/) | 💻 [GitHub](https://github.com/bhupencoD3)
