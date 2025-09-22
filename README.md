@@ -157,6 +157,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Bhupen** – “This work reflects the process of continuous learning — experimenting, making mistakes, and improving with each step.”
+**Bhupen** – “This work reflects the process of continuous learning, experimenting, making mistakes, and improving with each step.”
 
 🔗 [LinkedIn](https://www.linkedin.com/in/bhupenparmar/) | 💻 [GitHub](https://github.com/bhupencoD3)
